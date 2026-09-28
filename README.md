@@ -20,13 +20,21 @@ Fields  : Date, brand, segment, category, channel, region, pack_type, price_unit
 
 KPI Tracked
 
-Total sales          : $ 19.95M (With this amount of sales in 3 years you can pitch it to investor about the revenue share the investor about to get and the profit he would get if he invest in this company)
+Total sales          : $ 19.95M 
 
-Total product sales  : 190.757 product sales (In the product sales you can see that the product sales in 3 years u can sell this much which mean if we can pitch investor to invest here u can expand the product sales even more and make the revenue and profit share even greater)
+With this amount of sales in 3 years you can pitch it to investor about the revenue share the investor about to get and the profit he would get if he invest in this company
 
-Units solds          : 379.982 unit sold (Just 3 years to make this unitt got sold is a display for the investor to see that we can sell product with efficiently and pitching them that they money in the right hand)
+Total product sales  : 190.757 product sales
 
-Average price order  : $ 104.59 average price order (with this data you can tell that our product is get a big average price purchase per customer we can tell the investor that our product is compaticble to each other and complete another purchase so the rate price purchase per customer even higher)
+In the product sales you can see that the product sales in 3 years u can sell this much which mean if we can pitch investor to invest here u can expand the product sales even more and make the revenue and profit share even greater
+
+Units solds          : 379.982 unit sold
+
+Just 3 years to make this unit got sold is a display for the investor to see that we can sell product with efficiently and pitching them that they money in the right hand
+
+Average price order  : $ 104.59 average price order
+
+with this data you can tell that our product is get a big average price purchase per customer we can tell the investor that our product is compaticble to each other and complete another purchase so the rate price purchase per customer even higher
 
 
 Key Insight
